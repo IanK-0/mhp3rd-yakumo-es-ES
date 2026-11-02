@@ -3,7 +3,7 @@ Traduccion al Español Castellano en casi su totalidad para yakumo (Monster Hunt
 
 # Monster Hunter Portable 3rd HD Ver. — Traducción al Español
 
-Proyecto de traducción al español de **Monster Hunter Portable 3rd HD Ver.** para Yakumo[https://github.com/TeamGDB/Yakumo]
+Proyecto de traducción al español de **Monster Hunter Portable 3rd HD Ver.** para [Yakumo](https://github.com/TeamGDB/Yakumo).
 
 > **Proyecto no oficial de fans.** Este repositorio no está afiliado, respaldado ni patrocinado por Capcom. Monster Hunter y sus marcas relacionadas pertenecen a sus respectivos propietarios.
 
@@ -25,8 +25,6 @@ De forma general, el trabajo realizado incluye:
 - Revisión progresiva de las tablas traducidas hasta completar el conjunto tratado en el proyecto.
 - Integración de los textos traducidos en la imagen de juego utilizada para las pruebas finales.
 
-Para un resumen por versión, consulta [CHANGELOG.md](CHANGELOG.md).
-
 ## Distribución
 
 Este repositorio **no incluye una ISO completa del juego ni archivos originales protegidos por copyright**.
@@ -36,6 +34,9 @@ Coloca el archivo de parche final en la carpeta [`patches/`](patches/).
 
 ## Instalación
 
+1. Descargar la ultima release del archivo
+2. Importar mediante Yakumo el archivo "es-es_v12.8.lang"
+3. Reiniciar el juego nuevamente para ver el parche aplicado
 
 Consulta también [`patches/README.md`](patches/README.md).
 
