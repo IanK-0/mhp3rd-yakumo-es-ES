@@ -28,17 +28,13 @@ De forma general, el trabajo realizado incluye:
 ## Distribución
 
 Este repositorio **no incluye una ISO completa del juego ni archivos originales protegidos por copyright**.
-
 La forma recomendada de distribuir la traducción es mediante un **parche** lang para que el usuario aplique sobre su propia copia legítima del juego. 
-Coloca el archivo de parche final en la carpeta [`patches/`](patches/).
 
 ## Instalación
 
-1. Descargar la ultima release del archivo
+1. Descargar la ultima [release](https://github.com/IanK-0/mhp3rd-yakumo-es-ES/releases) del archivo
 2. Importar mediante Yakumo el archivo "es-es_v12.8.lang"
 3. Reiniciar el juego nuevamente para ver el parche aplicado
-
-Consulta también [`patches/README.md`](patches/README.md).
 
 ## Aviso legal
 
